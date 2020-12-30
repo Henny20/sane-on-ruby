@@ -178,4 +178,3 @@ module Sane
 
 end
 
-Sane.sane_init(0, 0)
